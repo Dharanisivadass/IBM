@@ -4,7 +4,7 @@ Phase1:https://github.com/Dharanisivadass/IBM/blob/782d7bce084cc51294c92b0e19bb0
 Phase2:https://github.com/Dharanisivadass/IBM/blob/782d7bce084cc51294c92b0e19bb0ef2e678a537/cloud%20application%20development_phase2.docx
 Phase3:https://github.com/Dharanisivadass/IBM/blob/782d7bce084cc51294c92b0e19bb0ef2e678a537/CAD_phase%203.pdf
 Phase4:https://github.com/Dharanisivadass/IBM/blob/782d7bce084cc51294c92b0e19bb0ef2e678a537/CAD_Phase%204.pdf
-Phase 5:https://github.com/Dharanisivadass/IBM/blob/782d7bce084cc51294c92b0e19bb0ef2e678a537/CAD_PHASE5-1.pdf
+Phase5:https://github.com/Dharanisivadass/IBM/blob/782d7bce084cc51294c92b0e19bb0ef2e678a537/CAD_PHASE5-1.pdf
 ## How to deploy the image recognition system using IBM Cloud and the web interface
 
 1. Create an IBM Cloud account and log in to the IBM Cloud console.
