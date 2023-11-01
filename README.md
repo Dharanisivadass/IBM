@@ -1,9 +1,9 @@
 Github repository link:https://github.com/Dharanisivadass/IBM.git
 
-Phase 1:https://github.com/Dharanisivadass/IBM/blob/782d7bce084cc51294c92b0e19bb0ef2e678a537/Phase%201%20Report.pdf
-Phase 2:https://github.com/Dharanisivadass/IBM/blob/782d7bce084cc51294c92b0e19bb0ef2e678a537/cloud%20application%20development_phase2.docx
-Phase 3:https://github.com/Dharanisivadass/IBM/blob/782d7bce084cc51294c92b0e19bb0ef2e678a537/CAD_phase%203.pdf
-Phase 4:https://github.com/Dharanisivadass/IBM/blob/782d7bce084cc51294c92b0e19bb0ef2e678a537/CAD_Phase%204.pdf
+Phase1:https://github.com/Dharanisivadass/IBM/blob/782d7bce084cc51294c92b0e19bb0ef2e678a537/Phase%201%20Report.pdf
+Phase2:https://github.com/Dharanisivadass/IBM/blob/782d7bce084cc51294c92b0e19bb0ef2e678a537/cloud%20application%20development_phase2.docx
+Phase3:https://github.com/Dharanisivadass/IBM/blob/782d7bce084cc51294c92b0e19bb0ef2e678a537/CAD_phase%203.pdf
+Phase4:https://github.com/Dharanisivadass/IBM/blob/782d7bce084cc51294c92b0e19bb0ef2e678a537/CAD_Phase%204.pdf
 Phase 5:https://github.com/Dharanisivadass/IBM/blob/782d7bce084cc51294c92b0e19bb0ef2e678a537/CAD_PHASE5-1.pdf
 ## How to deploy the image recognition system using IBM Cloud and the web interface
 
